@@ -13,10 +13,6 @@ import validate.Validation;
  */
 import java.util.Scanner;
 
-/**
- *
- * @author THAYCACAC
- */
 public class Manager {
 
     private static final Scanner in = new Scanner(System.in);
